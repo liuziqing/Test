@@ -1,7 +1,6 @@
 #################
 ## Eclipse
 #################
-//是你厉害还是我厉害
 *.pydevproject
 .project
 .metadata
